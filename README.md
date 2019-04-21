@@ -732,3 +732,4 @@ The Complete Junior to Senior Web Developer Roadmap (2019):
 ## 29.	__Bonus: AMA + Developer Morning Routine__
 ******************************************************************************************
 
+Pending
